@@ -1,0 +1,6 @@
+com\qa\training\BingTranslator\AutoDetect.class
+com\qa\training\BingTranslator\CheckTranslate.class
+com\qa\training\BingTranslator\TranslateToBtn.class
+com\qa\training\BingTranslator\BingTest.class
+com\qa\training\BingTranslator\TranslateFromBtn.class
+com\qa\training\BingTranslator\SwapBtn.class
